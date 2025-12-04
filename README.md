@@ -2,16 +2,28 @@
   <img height="200" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
 </div>
 
-###
 
-<h2 align="left">"Hey everyone 👋, Mahir Sama here — Data Analyst 📈."</h2>
 
-###
+## About Me
 
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=mahir4707&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir4707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Hi, I'm **Mahir Sama**, a Computer Science student and **Data Analyst** focused on turning data into meaningful insights.
+
+### What I do
+- Clean, analyze, and visualize data  
+- Build dashboards and automation scripts  
+- Work with Python, SQL, and analytical tools  
+
+### Currently learning
+- Advanced Python  
+- SQL optimization  
+- Machine learning basics  
+
+### Goals
+- Become industry-ready in Data Analytics  
+- Build impactful, insight-driven projects  
+
+Always open to learning and collaboration.
+
 
 ###
 
