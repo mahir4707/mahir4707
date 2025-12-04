@@ -1,31 +1,16 @@
+# Hey Everyone 👋, Mahir Sama here.. #
+
 <div align="center">
   <img height="200" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
 </div>
 
 
-
 ## About Me
 
-Hi, I'm **Mahir Sama**, a Computer Science student and **Data Analyst** focused on turning data into meaningful insights.
-
-### What I do
-- Clean, analyze, and visualize data  
-- Build dashboards and automation scripts  
-- Work with Python, SQL, and analytical tools  
-
-### Currently learning
-- Advanced Python  
-- SQL optimization  
-- Machine learning basics  
-
-### Goals
-- Become industry-ready in Data Analytics  
-- Build impactful, insight-driven projects  
-
-Always open to learning and collaboration.
-
-
-###
+- On a path toward becoming a **Data Scientist and Analytics professional**.  
+- Currently building strong fundamentals through **Python** and practical problem-solving.  
+- Working on my **personal portfolio** to showcase projects and growth.  
+- Committed to continuous learning, discipline, and hard work.  
 
 <p align="left">Techs and Tools:</p>
 
