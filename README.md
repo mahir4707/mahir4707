@@ -7,12 +7,27 @@
 
 ## About Me
 
-- On a path toward becoming a **Data Scientist and Analytics professional**.  
-- Currently building strong fundamentals through **Python** and practical problem-solving.  
-- Working on my **personal portfolio** to showcase projects and growth.  
-- Committed to continuous learning, discipline, and hard work.  
+- On a focused path toward becoming a **Data Scientist and Analytics professional**.  
+- Actively learning and working with **data-related technologies**, including data analysis, databases, and problem-solving tools.  
+- Building strong fundamentals through **Python**, hands-on practice, and real-world use cases.  
+- Committed to continuous learning, consistency, and disciplined growth.
 
-<p align="left">Techs and Tools:</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Professional-blue" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-green" />
+  <img src="https://img.shields.io/badge/Python-Core%20Skill-yellow" />
+  <img src="https://img.shields.io/badge/SQL-Querying-orange" />
+  <img src="https://img.shields.io/badge/Learning-Consistent-brightgreen" />
+</p>
+
+## 🚀 What I’m Currently Working On
+
+- Strengthening **data analytics fundamentals**
+- Practicing **MongoDB CRUD & aggregation pipelines**
+- Building **real-world datasets and queries**
+- Improving problem-solving and query optimization
+
+## <p align="left">Techs and Tools:</p>
 
 ###
 
@@ -43,12 +58,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
 ###
 
-<p align="left">Connect with me:</p>
+## <p align="left">Connect with me:</p>
 
 ###
 
@@ -74,9 +91,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mahir4707.mahir4707&"  />
 </div>
 
+
+
 ###
 
 <h1 align="left">"Let’s create something valuable together."</h1>
+
 
 ###
 
