@@ -7,7 +7,7 @@
 
 ## About Me
 
-- On a focused path toward becoming a **Data Scientist and Analytics professional**.  
+- On a focused path toward becoming a **Data Analytics professional**.  
 - Actively learning and working with **data-related technologies**, including data analysis, databases, and problem-solving tools.  
 - Building strong fundamentals through **Python**, hands-on practice, and real-world use cases.  
 - Committed to continuous learning, consistency, and disciplined growth.
@@ -22,8 +22,8 @@
 
 ## 🚀 What I’m Currently Working On
 
-- Strengthening **data analytics fundamentals**
-- Practicing **MongoDB CRUD & aggregation pipelines**
+- Strengthening **data analytics**
+- Practicing **more sql and data handling**
 - Building **real-world datasets and queries**
 - Improving problem-solving and query optimization
 
@@ -60,6 +60,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo" />
    <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="power bi logo" />
+<img width="12" />
+
+
+
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
